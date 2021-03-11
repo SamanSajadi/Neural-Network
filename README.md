@@ -1,7 +1,7 @@
 # Neural-Network
  
  
- #Regression 
+ for #Regression 
 I just showed how to use Neura Network for Regression on Boston House data set.
 
 another Code is provided for #Classification using Mnist data set.
